@@ -1,0 +1,4 @@
+transformers
+jiwer
+datasets
+num2words
